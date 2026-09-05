@@ -1,4 +1,4 @@
-# Hi 👋, I'm Watcharapoj Vichachang
+ 👋, I'm Watcharapoj Vichachang
 
 A student passionate about back-end & full-stack development, and mobile software
 
