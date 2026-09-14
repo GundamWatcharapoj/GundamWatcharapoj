@@ -1,4 +1,4 @@
- # I'm Watcharapoj Vichachang (Gundam) 🤖 .
+ # I'm Watcharapoj Vichachang (Gundam)  .
 
 A student passionate about back-end & full-stack development, and mobile software
 
